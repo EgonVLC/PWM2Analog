@@ -1,0 +1,24 @@
+ULTIBOARD DRILL REPORT
+
+Design: DuetPWM_power_ALT_PCB_2
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                                LAMINATION
+DuetPWM_power_ALT_PCB_2 - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.0236    PTH      5
+   2   0.1220   NPTH      4
+   3   0.0350    PTH      7
+   4   0.0392    PTH      3
+   5   0.0420    PTH      3
